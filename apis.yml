@@ -7,10 +7,9 @@ description: >-
 type: Index
 image: https://kinlane-productions.s3.amazonaws.com/apis-json/apis-json-logo.jpg
 tags:
-  - Image Editing
-  - AI
   - Adobe
-  - API
+  - AI
+  - Image Editing
 url: >-
   https://raw.githubusercontent.com/api-evangelist/photoshop/refs/heads/main/apis.yml
 created: '2026-03-16'
@@ -24,9 +23,9 @@ apis:
       Photoshop actions, and AI-powered image manipulation at scale.
     humanURL: https://developer.adobe.com/photoshop/api/
     tags:
-      - Image Editing
-      - AI
       - Adobe
+      - AI
+      - Image Editing
     properties:
       - type: Documentation
         url: https://developer.adobe.com/photoshop/api/
