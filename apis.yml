@@ -38,13 +38,13 @@ apis:
     properties:
       - type: Documentation
         url: https://developer.adobe.com/firefly-services/docs/photoshop/
-      - type: Getting Started
+      - type: GettingStarted
         url: >-
           https://developer.adobe.com/firefly-services/docs/photoshop/getting-started/
       - type: Authentication
         url: >-
           https://developer.adobe.com/firefly-services/docs/guides/get-started/
-      - type: API Reference
+      - type: APIReference
         url: https://adobedocs.github.io/photoshop-api-docs/
       - type: GitHub
         url: https://github.com/AdobeDocs/photoshop-api-docs
