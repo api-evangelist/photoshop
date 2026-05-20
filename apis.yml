@@ -49,6 +49,8 @@ apis:
       - type: GitHub
         url: https://github.com/AdobeDocs/photoshop-api-docs
 common:
+  - type: LinkedIn
+    url: https://www.linkedin.com/showcase/adobe-creative-cloud
   - type: Portal
     url: https://developer.adobe.com/firefly-services/
   - type: Documentation
