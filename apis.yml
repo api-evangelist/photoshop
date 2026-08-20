@@ -23,6 +23,12 @@ access: 3rd-Party
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/photoshop.png
 tags:
   - Adobe
+  - Artificial Intelligence
+  - Image Editing
+  - Photoshop
+  - Firefly Services
+tags_raw:
+  - Adobe
   - AI
   - Image Editing
   - Photoshop
@@ -43,6 +49,11 @@ apis:
     humanURL: https://developer.adobe.com/firefly-services/docs/photoshop/
     baseURL: https://image.adobe.io
     tags:
+      - Adobe
+      - Artificial Intelligence
+      - Image Editing
+      - Photoshop
+    tags_raw:
       - Adobe
       - AI
       - Image Editing
