@@ -1,4 +1,4 @@
-# Photoshop (photoshop)
+# Photoshop
 
 <!-- API-EVANGELIST-PROVENANCE:BEGIN -->
 > ### About this repository
@@ -66,58 +66,101 @@
 
 Adobe Photoshop provides API capabilities through Adobe Firefly Services and the Photoshop API, allowing developers to automate photo editing, apply Photoshop actions, manipulate layers and smart objects, generate renditions, and leverage AI-powered image editing at scale.
 
-**URL:** [Visit APIs.json URL](https://raw.githubusercontent.com/api-evangelist/photoshop/refs/heads/main/apis.yml)
+**Areas:** Adobe · Artificial Intelligence · Image Editing · Photoshop · Firefly Services
 
-## Scope
+## Photoshop on APIs.io
 
-- **Type:** Index
-- **Position:** Consuming
-- **Access:** 3rd-Party
+Everything profiled for Photoshop is published on APIs.io rather than in this repository. Start at the provider page — **[apis.io/providers/photoshop/](https://apis.io/providers/photoshop/)** — or go straight to one of the APIs or properties below.
 
-## Tags:
+### APIs (1)
 
- - Image Editing, AI, Adobe, Photoshop, Firefly Services
+- [Photoshop API](https://apis.io/apis/photoshop/photoshop-api/) — Adobe Photoshop API for automating image editing workflows, applying Photoshop actions, manipulating layers and smart objects, generating renditions and…
 
-## Timestamps
+### Published properties
 
-- **Created:** 2026-03-16
-- **Modified:** 2026-04-28
+Each property below is a page on APIs.io carrying the machine-readable artifact and what it says.
 
-## APIs
+#### Security (2)
 
-### Photoshop API
+Authentication, trust centre, and vulnerability disclosure.
 
-Adobe Photoshop API for automating image editing workflows, applying Photoshop actions, manipulating layers and smart objects, generating renditions and document manifests, and AI-powered image manipulation at scale via Adobe Firefly Services.
+- [Photoshop Domain Security](https://apis.io/security/photoshop/photoshop-domain-security/)
+- [Photoshop Vulnerability Disclosure](https://apis.io/security/photoshop/photoshop-vulnerability-disclosure/)
 
-**Human URL:** [https://developer.adobe.com/firefly-services/docs/photoshop/](https://developer.adobe.com/firefly-services/docs/photoshop/)
+#### Plans and pricing (1)
 
-**Base URL:** `https://image.adobe.io`
+Published plans, tiers and prices.
 
-#### Tags:
+- [Photoshop Plans Pricing](https://apis.io/plans/photoshop/photoshop-plans-pricing/)
 
- - Adobe, AI, Image Editing, Photoshop
+#### Rate limits (1)
 
-#### Properties
+Published request limits.
 
-- [Documentation](https://developer.adobe.com/firefly-services/docs/photoshop/)
-- [Getting Started](https://developer.adobe.com/firefly-services/docs/photoshop/getting-started/)
-- [Authentication](https://developer.adobe.com/firefly-services/docs/guides/get-started/)
-- [API Reference](https://adobedocs.github.io/photoshop-api-docs/)
-- [GitHub](https://github.com/AdobeDocs/photoshop-api-docs)
+- [Photoshop Rate Limits](https://apis.io/rate-limits/photoshop/photoshop-rate-limits/)
 
-## Common Properties
+#### FinOps (1)
 
-- [Portal](https://developer.adobe.com/firefly-services/)
-- [Documentation](https://developer.adobe.com/firefly-services/docs/photoshop/)
+What the API costs to run, by operation.
+
+- [Photoshop Finops](https://apis.io/finops/photoshop/photoshop-finops/)
+
+## Where to find this API
+
+Links to the company's own pages. This repository publishes no copy of their specifications — the canonical document is theirs and lives at the URLs below.
+
 - [Website](https://www.adobe.com/products/photoshop.html)
-- [GitHub](https://github.com/AdobeDocs/photoshop-api-docs)
+- [Documentation](https://developer.adobe.com/firefly-services/docs/photoshop/)
 
-## Notes
+## API Evangelist rating
 
-Adobe publishes Photoshop API reference documentation in apiDoc format (not OpenAPI). No public OpenAPI 3.x specification is currently distributed by Adobe; per repository policy, no OpenAPI artifact is generated here to avoid empty or fabricated specs.
+**Kin Score 20.1** — emerging · rubric 0.24.0 · scored 2026-10-17
 
-## Maintainers
+| Facet | Score |
+|---|---|
+| Discoverability | 66.1 |
+| Contract quality | 0.0 |
+| Contract governance | 0.0 |
+| Operational transparency | 13.2 |
+| Developer ergonomics | 50.0 |
+| Access clarity | 7.9 |
 
-**FN:** Kin Lane
+**Agent readiness 3.1** — human-only
 
-**Email:** kin@apievangelist.com
+| Agent-readiness dimension | Result |
+|---|---|
+| Spec Presence | — |
+| Agentic Access | — |
+| Reversibility Documented | — |
+| MCP Server | — |
+| Auth Clarity | bearer (partial credit) |
+| Idempotency | — |
+| Error Semantics | — |
+| OpenAPI Examples | — |
+| Rate Limit Signal | derived (partial credit) |
+| Event Surface Described | — |
+| Agent Skills | — |
+| Well Known Catalog | — |
+| Consent Identity | — |
+| Agent Card | — |
+| Dry Run Mode | — |
+| Delegated Identity | — |
+| Protected Resource Metadata | — |
+| Dynamic Client Registration | — |
+| Agentic Commerce | — |
+
+**Regulatory alignment 16.4** — Horizontal (data, software, accessibility, platform)
+
+The rubric is published at [github.com/api-evangelist/kin-score](https://github.com/api-evangelist/kin-score). The per-check breakdown behind these numbers — which checks were earned, partial or missed — along with score history and how this provider compares to its peers, is available at [apis.io/providers/photoshop/](https://apis.io/providers/photoshop/).
+
+## How this profile is made
+
+API Evangelist profiles a company's public API surface the way a developer would find it: the website, developer portal and documentation, the specifications it publishes, its public repositories, and its pricing, status and changelog pages. From that it derives the properties above — contracts split per API, workflows, schemas, collections, governance rules, plans and rate limits — and scores them against the published [Kin Score rubric](https://github.com/api-evangelist/kin-score).
+
+The artifacts are published on [APIs.io](https://apis.io), not in this repository. This repository is the public record for Photoshop: the place to say something is wrong, missing or out of date, and to ask for a re-score or a removal.
+
+## Open an issue
+
+- **Something about this listing** — a wrong description, a missing API, a stale artifact or a question about the rating: [open an issue on this repository](https://github.com/api-evangelist/photoshop/issues/new).
+- **A new API, or one that is not in the catalog yet** — [submit it on APIs.io](https://apis.io/add/).
+- **Anything else** — [the APIs.io inbox](https://github.com/api-search/inbox/issues/new) or [info@apievangelist.com](mailto:info@apievangelist.com).
